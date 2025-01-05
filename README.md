@@ -2,6 +2,8 @@
 
 CineScope is a comprehensive and modern movie and TV show exploration platform. With a clean and intuitive interface, users can search, browse, and discover trending, popular, and top-rated content with ease. CineScope enhances the movie-watching experience by providing detailed information, trailers, and recommendations.
 
+Live Demo:- [https://cine-scope-224eq2pxy-joshuabvargheses-projects.vercel.app](https://cine-scope-sable.vercel.app/)
+
 ## Features
 
 - **Search Functionality**: Quickly search for any movie or TV show and view results in an aesthetically pleasing interface.
@@ -20,28 +22,19 @@ CineScope is a comprehensive and modern movie and TV show exploration platform. 
 - **Build Tool**: Vite
 - **Styling**: SCSS
 
-## Requirements
-
-- Basic knowledge of React.js
-- Basic understanding of HTML and SCSS
-
 ## Getting Started
 
 To run this project locally:
 
 1. Clone the repository:
    ```bash
-   git clone <>
+   git clone <https://github.com/joshuabvarghese/CineScope.git>
    ```
-2. Navigate to the project directory:
-   ```bash
-   cd cinescope
-   ```
-3. Install dependencies:
+2. Install dependencies:
    ```bash
    npm install
    ```
-4. Start the development server:
+3. Start the development server:
    ```bash
    npm run dev
    ```
