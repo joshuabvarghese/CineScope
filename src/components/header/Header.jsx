@@ -6,7 +6,7 @@ import { useLocation, useNavigate } from "react-router-dom";
 
 import "./style.scss";
 
-import logo from "../../assets/CineScope.png";
+import logo from "../../assets/cinescope.png";
 import ContentWrapper from "../contentWrapper/ContentWrapper";
 
 const Header = () => {
