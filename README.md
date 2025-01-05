@@ -4,6 +4,8 @@ CineScope is a comprehensive and modern movie and TV show exploration platform. 
 
 Live Demo:- [https://cine-scope-224eq2pxy-joshuabvargheses-projects.vercel.app](https://cine-scope-sable.vercel.app/)
 
+![CineScope Demo](demo.gif)
+
 ## Features
 
 - **Search Functionality**: Quickly search for any movie or TV show and view results in an aesthetically pleasing interface.
